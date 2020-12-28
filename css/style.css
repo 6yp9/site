@@ -1,0 +1,16 @@
+.topbutton{
+	text-decoration: none !important;
+	color: gray !important;
+}
+.strela{
+	position: relative !important;
+}
+.but1{
+	  position: fixed !important;
+    right: 20px;
+    bottom: 20px;
+	right: 10px;
+}
+.a{
+	list-style-type: none !important;
+}

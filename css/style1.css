@@ -1,0 +1,40 @@
+.topbutton{
+	text-decoration: none !important;
+	color: gray !important;
+}
+.strela{
+	position: relative !important;
+	
+}
+.but1{
+	  position: fixed !important;
+    right: 20px;
+    bottom: 20px;
+	right: 10px;
+}
+.xleb{
+	text-decoration: none !important;
+	color: gray !important;
+}
+.nav{
+	margin-left: 13px;
+}
+.sss{
+	width: 900px !important;
+}
+.container img{
+	width: 425px !important;
+	height: 280px !important;
+	padding: 10px !important;
+	transition:  0.5s !important;
+}
+.container img:hover {
+transform: scale(1.1) !important;
+}
+.a{
+	list-style-type: none !important;
+}
+.footer{
+	top: 100px;
+	position: relative !important;
+}
